@@ -1,0 +1,10 @@
+./LongTarget -f1 Abca4.fa -f2 A_30_P01020855.txt -r 0 -O ./out
+
+./LongTarget -f1 Abca4.fa -f2 A_30_P01022485.txt -r 0 -O ./out &
+./LongTarget -f1 Abca4.fa -f2 A_30_P01023344.txt -r 0 -O ./out &
+./LongTarget -f1 Abca4.fa -f2 A_30_P01023451.txt -r 0 -O ./out &
+./LongTarget -f1 Abca4.fa -f2 A_30_P01023451.txt -r 0 -O ./out &
+./LongTarget -f1 Abca4.fa -f2 A_30_P01024279.txt -r 0 -O ./out &
+./LongTarget -f1 Abca4.fa -f2 A_30_P01024622.txt -r 0 -O ./out &
+./LongTarget -f1 Abca4.fa -f2 A_30_P01026663.txt -r 0 -O ./out &
+./LongTarget -f1 Abca4.fa -f2 A_30_P01028072.txt -r 0 -O ./out &

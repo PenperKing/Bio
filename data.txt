@@ -1,0 +1,7 @@
+RefSeqAccession	GeneSymbol
+NM_029604	Pifo
+NR_033603	Gm5176
+NM_001024624	Cdkl5
+	Tbc1d2
+NM_001081336	Dgkh
+	Myo18a

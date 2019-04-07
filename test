@@ -1,0 +1,10 @@
+
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE DASDNA SYSTEM "http://www.biodas.org/dtd/dasdna.dtd">
+<DASDNA>
+<SEQUENCE id="chrX" start="169875622" stop="169991798" version="1.00">
+<DNA length="116177">
+ga
+</DNA>
+</SEQUENCE>
+</DASDNA>
