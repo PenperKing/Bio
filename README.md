@@ -108,6 +108,3 @@ Longtarget.cpp代码写的真是有点乱， 准备把他改成多对多的，�
 3、 输出某个基因序列是否结合，即判断Longtarget输出文件是否为空即可。
 跑算法时发现一次平均配对时间约为60s， 总的跑了10个小时，即完成实验。
 代码见bio_proj/multi_pool/code,数据见bio_proj/multi_pool/all_data, 上传数据时，本地压缩过了，* .fa为rna基因序列，* .txt为dna序列。代码可能库包含路径有问题，本人采用pycharm ide。
-
-#### code
-https://github.com/PenperKing/Bio.git
